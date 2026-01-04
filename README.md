@@ -9,10 +9,9 @@ The system provides visual output in the form of **bounding boxes, object labels
 - Upload image through a simple web interface
 - Detect multiple objects in a single image
 - Draw bounding boxes with object names
-- Uses pretrained deep learning model (YOLOv8)
+- Uses pretrained deep learning model
 - No dataset training required
 - Fast and accurate predictions
-- Beginner-friendly and exam-ready project
 
 ## Technology Stack
 
