@@ -24,5 +24,4 @@ The system provides visual output in the form of **bounding boxes, object labels
 - **NumPy**
 
 
-## 📂 Project Structure
 
